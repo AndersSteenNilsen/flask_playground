@@ -17,6 +17,7 @@ _mailinglist
 docs/_build/
 .vscode
 venv/
+my_secrets.py
 
 # Coverage reports
 htmlcov/
